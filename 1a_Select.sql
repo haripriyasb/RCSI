@@ -1,0 +1,3 @@
+USE DBATEST;
+SELECT * FROM dbo.t1  WHERE id=1 
+
